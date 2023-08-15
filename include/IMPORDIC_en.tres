@@ -1,0 +1,94 @@
+001#STR001#ALL# Table import routine
+002#STR002#ALL# Continue
+003#STR003#ALL# At least one group must be selected
+004#STR004#ALL# This routine aims to import system files, such as:
+005#STR005#ALL# SX2,SX3,SIX,SX1,SX5,SX6,SX7 and SXB
+006#STR006#ALL# Routine created to run from version 12.1.33
+007#STR007#ALL# Do you want to continue?
+008#STR008#ALL# Parameterization Question Maintenance (SX1)
+009#STR009#ALL# File Maintenance (SX2)
+010#STR010#ALL# Cancel
+011#STR011#ALL# Field Maintenance (SX3)
+012#STR012#ALL# Table Maintenance (SX5)
+013#STR013#ALL# Maintaining Parameters (SX6)
+014#STR014#ALL# Field Trigger Maintenance (SX7)
+015#STR015#ALL# Standard Query Maintenance (SXB)
+016#STR016#ALL# File Index Maintenance (SIX)
+017#STR017#ALL# Attention
+018#STR018#ALL# Companies/Branch
+019#STR019#ALL# Import
+020#STR020#ALL# Close
+021#STR021#ALL# Do you want to end the routine?
+022#STR022#ALL# Finish
+023#STR023#ALL# This routine is intended to import the main system tables into Protheus.
+024#STR024#ALL# Only populated fields will be imported.
+025#STR025#ALL# ATTENTION: Before updating any tables, remember to back up the files
+026#STR026#ALL# in the \system\ folder
+027#STR027#ALL# Click here for more details...
+028#STR028#ALL# Tables
+029#STR029#ALL# Parameters
+030#STR030#ALL# Please wait...
+031#STR031#ALL# Select at least 1 company!
+032#STR032#ALL# Import driver from your environment:
+033#STR033#ALL# Source of files to import
+034#STR034#ALL# Select if your files are in bank or local:
+035#STR035#ALL# Import records
+036#STR036#ALL# Created by
+037#STR037#ALL# Updating
+038#STR038#ALL# Only files with extension
+039#STR039#ALL# are accepted!
+040#STR040#ALL# Check the given file!
+041#STR041#ALL# Select source folder"
+042#STR042#ALL# Choose file
+043#STR043#ALL# All records being displayed will be imported into the system.
+044#STR044#ALL# If you don't want to import some records, you need to delete them first.
+045#STR045#ALL# Confirm data dictionary update?
+046#STR046#ALL# Update Done.
+047#STR047#ALL# Success
+048#STR048#ALL# Update not performed.
+049#STR049#ALL# Error
+050#STR050#ALL# Text Files
+051#STR051#ALL# DICTIONARIES UPDATE LOG
+052#STR052#ALL# Environment Data
+053#STR053#ALL# Data dictionary
+054#STR054#ALL# Updating fields/indexes
+055#STR055#ALL# Update completed.
+056#STR056#ALL# Start Update
+057#STR057#ALL# Updating Files
+058#STR058#ALL#  exists in table, cannot update.
+059#STR059#ALL# Could not open table 
+060#STR060#ALL# from companies (SM0).
+061#STR061#ALL# from companies (SM0) exclusively.
+062#STR062#ALL# Reading table 
+063#STR063#ALL# Table details 
+064#STR064#ALL# The record that is deleted from this screen will not be removed from the original file.
+065#STR065#ALL# Are you sure you want to delete the selected record(s)?
+066#STR066#ALL# Delete selected item(s)
+067#STR067#ALL# Close
+068#STR068#ALL# Assembling table 
+069#STR069#ALL# Checking for duplicates
+070#STR070#ALL# EXISTS?
+071#STR071#ALL# Exists
+072#STR072#ALL# Does not exist
+073#STR073#ALL# Tables SIX,SX1,SX5 and SXB can be changed
+074#STR074#ALL# Program data
+075#STR075#ALL# Bank
+076#STR076#ALL# Please wait, updating...
+077#STR077#ALL# The table
+078#STR078#ALL#  exists in table
+079#STR079#ALL# unable to update
+080#STR080#ALL# End of Update
+081#STR081#ALL#  Table Fields
+082#STR082#ALL# Default Query
+083#STR083#ALL# Before proceeding, the environment must be in exclusive mode.
+084#STR084#ALL# You are not an admin user!
+085#STR085#ALL# Validating business and the environment.
+086#STR086#ALL# Back
+087#STR087#ALL# Result
+088#STR088#ALL# Validating if the environment is in EXCLUSIVE mode...
+089#STR089#ALL# Code
+090#STR090#ALL# Company
+091#STR091#ALL# It is necessary to inform at least one dictionary to be imported!
+092#STR092#ALL# Environment
+093#STR093#ALL# Overwrite existing fields automatically
+094#STR094#ALL# You selected the overwrite option, are you sure you are really going to overwrite the data dictionary?
