@@ -1,94 +1,109 @@
-#DEFINE STR0001 FWI18NLang('IMPORDIC','STR001',1)
-#DEFINE STR0002 FWI18NLang('IMPORDIC','STR002',2)
-#DEFINE STR0003 FWI18NLang('IMPORDIC','STR003',3)
-#DEFINE STR0004 FWI18NLang('IMPORDIC','STR004',4)
-#DEFINE STR0005 FWI18NLang('IMPORDIC','STR005',5)
-#DEFINE STR0006 FWI18NLang('IMPORDIC','STR006',6)
-#DEFINE STR0007 FWI18NLang('IMPORDIC','STR007',7)
-#DEFINE STR0008 FWI18NLang('IMPORDIC','STR008',8)
-#DEFINE STR0009 FWI18NLang('IMPORDIC','STR009',9)
-#DEFINE STR0010 FWI18NLang('IMPORDIC','STR010',10)
-#DEFINE STR0011 FWI18NLang('IMPORDIC','STR011',11)
-#DEFINE STR0012 FWI18NLang('IMPORDIC','STR012',12)
-#DEFINE STR0013 FWI18NLang('IMPORDIC','STR013',13)
-#DEFINE STR0014 FWI18NLang('IMPORDIC','STR014',14)
-#DEFINE STR0015 FWI18NLang('IMPORDIC','STR015',15)
-#DEFINE STR0016 FWI18NLang('IMPORDIC','STR016',16)
-#DEFINE STR0017 FWI18NLang('IMPORDIC','STR017',17)
-#DEFINE STR0018 FWI18NLang('IMPORDIC','STR018',18)
-#DEFINE STR0019 FWI18NLang('IMPORDIC','STR019',19)
-#DEFINE STR0020 FWI18NLang('IMPORDIC','STR020',20)
-#DEFINE STR0021 FWI18NLang('IMPORDIC','STR021',21)
-#DEFINE STR0022 FWI18NLang('IMPORDIC','STR022',22)
-#DEFINE STR0023 FWI18NLang('IMPORDIC','STR023',23)
-#DEFINE STR0024 FWI18NLang('IMPORDIC','STR024',24)
-#DEFINE STR0025 FWI18NLang('IMPORDIC','STR025',25)
-#DEFINE STR0026 FWI18NLang('IMPORDIC','STR026',26)
-#DEFINE STR0027 FWI18NLang('IMPORDIC','STR027',27)
-#DEFINE STR0028 FWI18NLang('IMPORDIC','STR028',28)
-#DEFINE STR0029 FWI18NLang('IMPORDIC','STR029',29)
-#DEFINE STR0030 FWI18NLang('IMPORDIC','STR030',30)
-#DEFINE STR0031 FWI18NLang('IMPORDIC','STR031',31)
-#DEFINE STR0032 FWI18NLang('IMPORDIC','STR032',32)
-#DEFINE STR0033 FWI18NLang('IMPORDIC','STR033',33)
-#DEFINE STR0034 FWI18NLang('IMPORDIC','STR034',34)
-#DEFINE STR0035 FWI18NLang('IMPORDIC','STR035',35)
-#DEFINE STR0036 FWI18NLang('IMPORDIC','STR036',36)
-#DEFINE STR0037 FWI18NLang('IMPORDIC','STR037',37)
-#DEFINE STR0038 FWI18NLang('IMPORDIC','STR038',38)
-#DEFINE STR0039 FWI18NLang('IMPORDIC','STR039',39)
-#DEFINE STR0040 FWI18NLang('IMPORDIC','STR040',40)
-#DEFINE STR0041 FWI18NLang('IMPORDIC','STR041',41)
-#DEFINE STR0042 FWI18NLang('IMPORDIC','STR042',42)
-#DEFINE STR0043 FWI18NLang('IMPORDIC','STR043',43)
-#DEFINE STR0044 FWI18NLang('IMPORDIC','STR044',44)
-#DEFINE STR0045 FWI18NLang('IMPORDIC','STR045',45)
-#DEFINE STR0046 FWI18NLang('IMPORDIC','STR046',46)
-#DEFINE STR0047 FWI18NLang('IMPORDIC','STR047',47)
-#DEFINE STR0048 FWI18NLang('IMPORDIC','STR048',48)
-#DEFINE STR0049 FWI18NLang('IMPORDIC','STR049',49)
-#DEFINE STR0050 FWI18NLang('IMPORDIC','STR050',50)
-#DEFINE STR0051 FWI18NLang('IMPORDIC','STR051',51)
-#DEFINE STR0052 FWI18NLang('IMPORDIC','STR052',52)
-#DEFINE STR0053 FWI18NLang('IMPORDIC','STR053',53)
-#DEFINE STR0054 FWI18NLang('IMPORDIC','STR054',54)
-#DEFINE STR0055 FWI18NLang('IMPORDIC','STR055',55)
-#DEFINE STR0056 FWI18NLang('IMPORDIC','STR056',56)
-#DEFINE STR0057 FWI18NLang('IMPORDIC','STR057',57)
-#DEFINE STR0058 FWI18NLang('IMPORDIC','STR058',58)
-#DEFINE STR0059 FWI18NLang('IMPORDIC','STR059',59)
-#DEFINE STR0060 FWI18NLang('IMPORDIC','STR060',60)
-#DEFINE STR0061 FWI18NLang('IMPORDIC','STR061',61)
-#DEFINE STR0062 FWI18NLang('IMPORDIC','STR062',62)
-#DEFINE STR0063 FWI18NLang('IMPORDIC','STR063',63)
-#DEFINE STR0064 FWI18NLang('IMPORDIC','STR064',64)
-#DEFINE STR0065 FWI18NLang('IMPORDIC','STR065',65)
-#DEFINE STR0066 FWI18NLang('IMPORDIC','STR066',66)
-#DEFINE STR0067 FWI18NLang('IMPORDIC','STR067',67)
-#DEFINE STR0068 FWI18NLang('IMPORDIC','STR068',68)
-#DEFINE STR0069 FWI18NLang('IMPORDIC','STR069',69)
-#DEFINE STR0070 FWI18NLang('IMPORDIC','STR070',70)
-#DEFINE STR0071 FWI18NLang('IMPORDIC','STR071',71)
-#DEFINE STR0072 FWI18NLang('IMPORDIC','STR072',72)
-#DEFINE STR0073 FWI18NLang('IMPORDIC','STR073',73)
-#DEFINE STR0074 FWI18NLang('IMPORDIC','STR074',74)
-#DEFINE STR0075 FWI18NLang('IMPORDIC','STR075',75)
-#DEFINE STR0076 FWI18NLang('IMPORDIC','STR076',76)
-#DEFINE STR0077 FWI18NLang('IMPORDIC','STR077',77)
-#DEFINE STR0078 FWI18NLang('IMPORDIC','STR078',78)
-#DEFINE STR0079 FWI18NLang('IMPORDIC','STR079',79)
-#DEFINE STR0080 FWI18NLang('IMPORDIC','STR080',80)
-#DEFINE STR0081 FWI18NLang('IMPORDIC','STR081',81)
-#DEFINE STR0082 FWI18NLang('IMPORDIC','STR082',82)
-#DEFINE STR0083 FWI18NLang('IMPORDIC','STR083',83)
-#DEFINE STR0084 FWI18NLang('IMPORDIC','STR084',84)
-#DEFINE STR0085 FWI18NLang('IMPORDIC','STR085',85)
-#DEFINE STR0086 FWI18NLang('IMPORDIC','STR086',86)
-#DEFINE STR0087 FWI18NLang('IMPORDIC','STR087',87)
-#DEFINE STR0088 FWI18NLang('IMPORDIC','STR088',88)
-#DEFINE STR0089 FWI18NLang('IMPORDIC','STR089',89)
-#DEFINE STR0090 FWI18NLang('IMPORDIC','STR090',90)
-#DEFINE STR0091 FWI18NLang('IMPORDIC','STR091',91)
-#DEFINE STR0092 FWI18NLang('IMPORDIC','STR092',92)
-#DEFINE STR0093 FWI18NLang('IMPORDIC','STR093',93)
-#DEFINE STR0094 FWI18NLang('IMPORDIC','STR094',94)
+#DEFINE STR0001 "Rotina para importação de Tabelas"
+#DEFINE STR0002 "Continuar"
+#DEFINE STR0003 "Ao menos um grupo deve ser selecionado"
+#DEFINE STR0004 "Esta rotina tem como objetivo de importar arquivos do sistema, tais como:"
+#DEFINE STR0005 "SX2,SX3,SIX,SX1,SX5,SX6,SX7 e SXB"
+#DEFINE STR0006 "Rotina criada para rodar a partir da versão 12.1.33"
+#DEFINE STR0007 "Deseja continuar?"
+#DEFINE STR0008 "Manutenção de Perguntas de parametrização (SX1)"
+#DEFINE STR0009 "Manutenção dos Arquivos (SX2)"
+#DEFINE STR0010 "Cancelar"
+#DEFINE STR0011 "Manutenção dos Campos (SX3)"
+#DEFINE STR0012 "Manutenção de Tabelas (SX5)"
+#DEFINE STR0013 "Manutenção de Parâmetros (SX6)"
+#DEFINE STR0014 "Manutenção de Gatilhos de Campos (SX7)"
+#DEFINE STR0015 "Manutenção de Consultas padrão (SXB)"
+#DEFINE STR0016 "Manutenção de Índices dos Arquivos (SIX)"
+#DEFINE STR0017 "Atenção"
+#DEFINE STR0018 "Empresas/Filial"
+#DEFINE STR0019 "Importar"
+#DEFINE STR0020 "Fechar"
+#DEFINE STR0021 "Deseja encerrar a rotina?"
+#DEFINE STR0022 "Finalizar"
+#DEFINE STR0023 "Esta rotina tem o intuito de importar as principais tabelas do sistema no Protheus."
+#DEFINE STR0024 "Somente os campos preenchidos serão importados."
+#DEFINE STR0025 "ATENÇÃO: Antes de atualizar qualquer tabela, lembre-se de efetuar o backup dos arquivos"
+#DEFINE STR0026 "na pasta \system\"
+#DEFINE STR0027 "Clique aqui para mais detalhes..."
+#DEFINE STR0028 "Tabelas"
+#DEFINE STR0029 "Parametros"
+#DEFINE STR0030 "Aguarde..."
+#DEFINE STR0031 "Selecione ao menos 1 empresa!"
+#DEFINE STR0032 "Driver de Importação de seu ambiente:"
+#DEFINE STR0033 "Origem dos arquivos para importação"
+#DEFINE STR0034 "Selecione se seus arquivos estão em banco ou local:"
+#DEFINE STR0035 "Importar registros"
+#DEFINE STR0036 "Criado por"
+#DEFINE STR0037 "Atualizando"
+#DEFINE STR0038 "Apenas arquivos com extensão"
+#DEFINE STR0039 "são aceitos!"
+#DEFINE STR0040 "Verifique o arquivo informado!"
+#DEFINE STR0041 "Seleciona a pasta de origem""
+#DEFINE STR0042 "Escolha o arquivo"
+#DEFINE STR0043 "Todos os registros que estão sendo exibidos serão importados para o sistema."
+#DEFINE STR0044 "Caso não queira importar alguns registros, faz-se necessário excluí-lo(s) primeiro."
+#DEFINE STR0045 "Confirma a atualização do dicionário de dados ?"
+#DEFINE STR0046 "Atualização Realizada."
+#DEFINE STR0047 "Sucesso"
+#DEFINE STR0048 "Atualização não Realizada."
+#DEFINE STR0049 "Erro"
+#DEFINE STR0050 "Arquivos Texto"
+#DEFINE STR0051 "LOG DA ATUALIZAÇÃO DOS DICIONÁRIOS"
+#DEFINE STR0052 "Dados do Ambiente"
+#DEFINE STR0053 "Dicionário de dados"
+#DEFINE STR0054 "Atualizando campos/índices"
+#DEFINE STR0055 "Atualização concluida."
+#DEFINE STR0056 "Ínicio da Atualização"
+#DEFINE STR0057 "Atualizando Arquivos"
+#DEFINE STR0058 "existe na tabela, não é possível atualizar."
+#DEFINE STR0059 "Não foi possível a abertura da tabela"
+#DEFINE STR0060 "de empresas (SM0)."
+#DEFINE STR0061 "de empresas (SM0) de forma exclusiva."
+#DEFINE STR0062 "Lendo tabela"
+#DEFINE STR0063 "Detalhes da tabela"
+#DEFINE STR0064 "O registro que for excluído desta tela, não será removido do arquivo original."
+#DEFINE STR0065 "Tem certeza que deseja excluir o(s) registro(s) selecionado(s)?"
+#DEFINE STR0066 "Excluir item(ns) selecionado(s)"
+#DEFINE STR0067 "Fechar"
+#DEFINE STR0068 "Montando tabela"
+#DEFINE STR0069 "Verificando duplicidade"
+#DEFINE STR0070 "EXISTE?"
+#DEFINE STR0071 "Existe"
+#DEFINE STR0072 "Não Existe"
+#DEFINE STR0073 "As tabelas SIX,SX1,SX5 e SXB poderão ser alteradas"
+#DEFINE STR0074 "Dados do programa"
+#DEFINE STR0075 "Banco"
+#DEFINE STR0076 "Aguarde, atualizando ..."
+#DEFINE STR0077 "A tabela"
+#DEFINE STR0078 "existe na tabela"
+#DEFINE STR0079 "não é possível atualizar"
+#DEFINE STR0080 "Final da Atualização"
+#DEFINE STR0081 "Campos de Tabelas"
+#DEFINE STR0082 "Consulta Padrão"
+#DEFINE STR0083 "Antes de prosseguir, o ambiente deve está em modo exclusivo."
+#DEFINE STR0084 "Você não é um usuário administrador!"
+#DEFINE STR0085 "Validando empresas e ambiente."
+#DEFINE STR0086 "Voltar"
+#DEFINE STR0087 "Resultado"
+#DEFINE STR0088 "Validando se o ambiente está em modo EXCLUSIVO..."
+#DEFINE STR0089 "Código"
+#DEFINE STR0090 "Empresa"
+#DEFINE STR0091 "É necessário informar ao menos um dicionário para ser importado!"
+#DEFINE STR0092 "Ambiente"
+#DEFINE STR0093 "Sobrescrever campos existentes automaticamente"
+#DEFINE STR0094 "Você selecionou a opção de sobrescrever, tem certeza que realmente vai sobrescrever o dicionário de dados?"
+#DEFINE STR0095 "Nesta tela, você pode importar todos ou apenas o(s) campo(s) selecionado(s), desta forma, não precisa executar o Wizard da tela anterior."
+#DEFINE STR0096 "Você não selecionou a opção de sobrepor o dicionário de dados, portanto, não será possível selecionar "
+#DEFINE STR0097 "a(s) tabela(s) que existem na tabela "		
+#DEFINE STR0098 "o(s) campo(s) que existem na tabela "
+#DEFINE STR0099 "a(s) tabela(s) que existem na tabela genérica "
+#DEFINE STR0100 "o(s) parametro(s) que existem na tabela "
+#DEFINE STR0101 "o(s) gatilho(s) que existem na tabela "
+#DEFINE STR0102 "a(s) consulta(s) padrão que existem na tabela "
+#DEFINE STR0103 "o(s) grupo(s) de perguntas que existem na tabela "
+#DEFINE STR0104 "o(s) indice(s) que existem na tabela "
+#DEFINE STR0105 "Você selecionou a opção de sobrepor o dicionário de dados, portanto, "
+#DEFINE STR0106 "serão substituídos."
+#DEFINE STR0107 "Manutenção de Pastas de Campos (SXA)"
+#DEFINE STR0108 "a(s) pasta(s) que existem na tabela "
+
