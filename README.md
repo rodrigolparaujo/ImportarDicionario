@@ -33,3 +33,4 @@ Esta rotina tem como objetivo de importar arquivos do sistema, tais como:
 
 [Clique aqui](https://github.com/rodrigolparaujo/ImportarDicionario/tree/main/include) para copiar o include para que você possa traduzir para outro idioma se necessário.
 
+<center><p><a href="https://dayz-servers.org/server/170059/"><img src="https://dayz-servers.org/server/170059/banners/leaderboard-1.png" border="0" class="img-fluid"></a></p></center>
